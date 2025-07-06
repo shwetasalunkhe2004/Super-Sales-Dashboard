@@ -54,3 +54,12 @@ Significant sales and profit growth observed in Q4 across years.
 ## Conclusion:
 The dashboard provides actionable insights into sales drivers and customer preferences. It supports strategic planning in marketing, logistics, and inventory by identifying high-performing products, regions, and customer segments.
 
+## Screenshot of the dashboard :
+### Sales Person Dashboard:
+
+https://github.com/shwetasalunkhe2004/Super-Sales-Dashboard/blob/main/dashboardss.png
+
+### Sales Person Forcast :
+
+
+
