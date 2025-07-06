@@ -61,5 +61,7 @@ https://github.com/shwetasalunkhe2004/Super-Sales-Dashboard/blob/main/dashboards
 
 ### Sales Person Forcast :
 
+https://github.com/shwetasalunkhe2004/Super-Sales-Dashboard/blob/main/forcastss.png
+
 
 
